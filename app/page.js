@@ -10,6 +10,7 @@ export default function Home() {
           <p><Link href="/meals">Meals</Link></p>
           <p><Link href="/meals/share">Share Meal</Link></p>
           <p><Link href="/community">Community</Link></p>
+          <p><Link href="/api/apple-app-site-association">API</Link></p>
       </main>
   );
 }
